@@ -1,0 +1,19 @@
+{
+	"partners" : [
+		{
+			"name": "Github",
+			"url": "https://github.com",
+			"img": "https://arus-ag.github.io/arus-partners/partner_1.png"
+		},
+		{
+			"name": "Facebook",
+			"url": "https://facebook.com",
+			"img": "https://arus-ag.github.io/arus-partners/partner_2.png"
+		},
+		{
+			"name": "Goole",
+			"url": "https://google.com.com",
+			"img": "https://arus-ag.github.io/arus-partners/partner_3.png"
+		}
+	]
+}
