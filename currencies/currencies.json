@@ -1,10 +1,12 @@
 {
 	"currencies": [
 		{
-			"id": "litherium",
+			"id": "litherium-1",
+			"namespace": "capital-one",
 			"name": "Litherium",
             "img": "https://arus-ag.github.io/litherium-resources/currencies/litherium.png",
-            "rate": "2"
+			"rate": "1",
+			"divisibility": "2"
 		}
 	]
 }
