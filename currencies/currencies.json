@@ -6,6 +6,7 @@
 			"name": "Litherium",
             "img": "https://arus-ag.github.io/litherium-resources/currencies/litherium.png",
 			"rate": "1",
+			"ratelabel": "CHF",
 			"divisibility": "2"
 		}
 	]
