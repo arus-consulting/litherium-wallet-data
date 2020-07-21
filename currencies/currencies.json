@@ -9,6 +9,16 @@
 			"ratelabel": "CHF",
 			"divisibility": "2",
             "showAmount": "true"
-		}
+		},
+        {
+            "id": "litherium",
+            "namespace": "arus",
+            "name": "Litherium-test",
+            "img": "https://arus-ag.github.io/litherium-resources/currencies/litherium.png",
+            "rate": "1.2",
+            "ratelabel": "CHF",
+            "divisibility": "2",
+            "showAmount": "true"
+        }
 	]
 }
