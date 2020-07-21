@@ -18,7 +18,7 @@
             "rate": "1.2",
             "ratelabel": "CHF",
             "divisibility": "2",
-            "showAmount": "true"
+            "showAmount": "false"
         }
 	]
 }
