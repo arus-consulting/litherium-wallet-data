@@ -5,7 +5,8 @@
 			"namespace": "capital-one",
 			"name": "Litherium",
             "img": "https://arus-ag.github.io/litherium-resources/currencies/litherium.png",
-			"rate": "1.2",
+            "rate": "1.2",
+            "rateUrl": "http://165.232.72.203:3000/lh",
 			"ratelabel": "CHF",
 			"divisibility": "2",
             "showAmount": "true"
@@ -16,6 +17,7 @@
             "name": "Litherium-test",
             "img": "https://arus-ag.github.io/litherium-resources/currencies/litherium.png",
             "rate": "1.2",
+            "rateUrl": "http://165.232.72.203:3000/lh",
             "ratelabel": "CHF",
             "divisibility": "2",
             "showAmount": "false"
